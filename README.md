@@ -1,5 +1,5 @@
 # A-Tour-Swift
-## Uma tour pela linguagem Swift
+## Uma tour pela linguagem Swift para os iniciantes que querem conhecer mais sobre essa linguagem.
 
 ### O Básico
 
